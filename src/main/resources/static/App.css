@@ -1,0 +1,6 @@
+.product-card {
+  display: inline-block;
+  margin: 4px;
+  border: solid 2px black;
+  background-color: blue;
+}

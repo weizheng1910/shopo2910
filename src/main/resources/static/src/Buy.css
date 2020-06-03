@@ -1,0 +1,14 @@
+#modal {
+    display: "flex";
+    align-items: "center";
+    justify-content: "center";
+  },
+
+#modal-body {
+    background-color: white;
+    opacity: 1;
+    border: "2px solid black";
+    width: 50 + "vw";
+    height: 450 + "px";
+    border-radius: 10px;
+}
